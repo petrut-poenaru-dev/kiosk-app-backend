@@ -1,29 +1,45 @@
-import express from "express";
-import chalk from "chalk";
-import fs from "fs";
+const express = require('express');
+const chalk = require('chalk');
+const path = require('path');
+const fs = require('fs');
+const cors = require('cors');
+const orderNumberHelper = require('./order-number.helper');
 
 const app = express();
 const PORT = 3333;
 
-app.use(express.json({ limit: "50mb" }));
+app.use(cors());
+app.use(express.json({ limit: '50mb' }));
 
-app.listen(PORT , () => {
+app.get('/api/bundle', (req, res) => {
+    const filePath = path.join(__dirname, 'bundleSettings.json');
+    res.sendFile(filePath, (err) => {
+        if (err) {
+            console.error(err);
+            res.status(500).send('A apărut o eroare la returnarea fișierului');
+        }
+    });
+});
+
+app.get('/api/products', (req, res) => {
+    const filePath = path.join(__dirname, 'products.json');
+    fs.readFile(filePath, 'utf8', (err, data) => {
+        if (err) {
+            console.error(err);
+            return res.status(500).send('A apărut o eroare la citirea fișierului');
+        }
+        res.send(data);
+    });
+});
+
+app.post('/api/orderNumber', (req, res) => {
+    const currentOrderNumber = orderNumberHelper();
+    res.json({ orderNumber: currentOrderNumber });
+});
+
+app.listen(PORT, () => {
     console.log(
-        chalk.bgBlue("Server started: "),
+        chalk.blue('Server started:'),
         chalk.blue(`Listening to port ${PORT}`)
     );
-
-    app.get('/api/bundle', (req, res) => {
-        fs.readFile( __dirname +'bundle' +".json", 'utf8', function (err, data) {
-            res.send(data);
-            res.end( data );
-        });
-    });
-
-    app.get('/api/products', (req, res) => {
-        fs.readFile( __dirname +'products' +".json", 'utf8', function (err, data) {
-            res.send(data);
-            res.end( data );
-        });
-    });
-})
+});
