@@ -1,3 +1,12 @@
 {
-  "languages": ["ro" , "en"]
+  "languages": [
+    {
+      "code": "ro",
+      "name": "ROMANA"
+    },
+    {
+      "code": "en",
+      "name": "ENGLISH"
+    }
+  ]
 }
