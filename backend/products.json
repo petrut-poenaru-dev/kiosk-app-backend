@@ -2,38 +2,39 @@
   {
     "id": 1,
     "title": "Bauturi",
+    "img": "https://i.pinimg.com/originals/21/20/c5/2120c513935d107e8262f2818ea652d3.jpg",
     "buttons": [
       {
         "id": 6,
-        "title": "Coca Cola",
+        "title": "Cola-title",
         "weight": "330ml",
         "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQM2zUYY2dTP4mbX5GKdOCjCI2EM73J9IB9zA&s",
         "price": 1000
       },
       {
         "id": 7,
-        "title": "Coca Cola Zero",
+        "title": "Cola-0-title",
         "weight": "330ml",
         "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRixy7c2icOA-YyoP-vOU0peqxqgCCvOnyodA&s",
         "price": 1100
       },
       {
         "id": 8,
-        "title": "Apa minerala Dorna",
+        "title": "Dorna-minerala-title",
         "weight": "500ml",
         "img": "https://nora-delivery.ro/cdn/shop/files/ApaplataIzvorulAlb2L-1.png?v=1708498250&width=360",
         "price": 800
       },
       {
         "id": 9,
-        "title": "Fanta de Portocale",
+        "title": "Fanta-title",
         "weight": "330ml",
-        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRc3JPfApEAyw7RFE2Mhj65q9PcoN3AXjiGcg&s",
+        "img": "https://pngfre.com/wp-content/uploads/Fanta-26.png",
         "price": 1200
       },
       {
         "id": 10,
-        "title": "Sprite",
+        "title": "Sprite-title",
         "weight": "330ml",
         "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYRkGvUyw8iE_p7zM6OlvkAmn_-byybV4fFQ&s",
         "price": 1150
@@ -43,43 +44,44 @@
   {
     "id": 2,
     "title": "Cafea, Ceai, Ciocolata",
+    "img": "https://wallpapers.com/images/high/dark-green-cup-of-coffee-szzpm3kc2t1vp74y.webp",
     "buttons": [
       {
         "id": 11,
-        "title": "Caffee Latte - cafea cu lapte",
-        "ingredients": "Lapte 15%, Cacao 2%, Cafea 22%",
+        "title": "Latte-title",
+        "ingredients": "Latte-ingredients",
         "weight": "180ml",
         "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAe9WpBFF_rC8NkIwtvV5DDxYk9JurIzgNWQ&s",
         "price": 1500
       },
       {
         "id": 12,
-        "title": "Caffee Espresso - cafea neagra",
-        "ingredients": "Lapte 15%, Cafeina 1.5%, Cafea 30%",
+        "title": "Espresso-title",
+        "ingredients": "Espresso-ingredients",
         "weight": "160ml",
         "img": "https://hips.hearstapps.com/hmg-prod/images/cup-of-coffee-royalty-free-image-1581611460.jpg?crop=0.668xw:1.00xh;0.0680xw,0&resize=640:*",
         "price": 1200
       },
       {
         "id": 13,
-        "title": "Cappuccino",
-        "ingredients": "Lapte 10%, Cafeina 2%, Cafea 20%",
+        "title": "Cappuccino-title",
+        "ingredients": "Cappuccino-ingredients",
         "weight": "160ml",
         "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRc1LCPv30_gwBJZvr67pWx_1rRYEDVIaNJOA&s",
         "price": 1450
       },
       {
         "id": 14,
-        "title": "Ceai Lemon",
-        "ingredients": "Apa 90%, Lamaie 5%, Zahar 5%",
+        "title": "Lemon-tea-title",
+        "ingredients": "Lemon-tea-ingredients",
         "weight": "160ml",
         "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoRzbY0_1TDBoLWpttCDqDtC4QxEuBHw7XYA&s",
         "price": 1100
       },
       {
         "id": 15,
-        "title": "Ciocolată caldă",
-        "ingredients": "Cacao 4%, Ciocolata 20%, Zahar 5%, Lapte 5%",
+        "title": "Hot-chocolate-title",
+        "ingredients": "Hot-chocolate-ingredients",
         "weight": "160ml",
         "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxzaWzJMjHtQ8N2wz4xuQBgL8cyY_jdva1-Q&s",
         "price": 1250
@@ -89,43 +91,44 @@
   {
     "id": 3,
     "title": "Inghetata",
+    "img": "https://wallpapers.com/images/high/aesthetic-close-up-of-swirled-ice-cream-19d9qs3rp3yzqjow.webp",
     "buttons": [
       {
         "id": 16,
-        "title": "Inghetata Fistic",
-        "ingredients": "Lapte 60%, Fistic 6%, stabilizatori < 0.5%",
+        "title": "Inghetata-fistic-title",
+        "ingredients": "Inghetata-fistic-ingredients",
         "weight": "60ml",
         "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAe9WpBFF_rC8NkIwtvV5DDxYk9JurIzgNWQ&s",
         "price": 700
       },
       {
         "id": 17,
-        "title": "Inghetata Vanilie",
-        "ingredients": "Lapte 60%, Vanilie 8%, stabilizatori < 0.5%",
+        "title": "Inghetata-vanilie-title",
+        "ingredients": "Inghetata-vanilie-ingredients",
         "weight": "60ml",
         "img": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTLWOiy-gzGn3JD0SJMB5Cknun05qZDOLDuroGQMZpDdMW6f4MmswRf6sqoypXBeh5QqHiHeiwm4nfCc21x0Q6xtejQY_piUbSJjyp-5XznsJwwe4EkLlr9cHEZ0px8e8d8NJtHSAY&usqp=CAc",
         "price": 700
       },
       {
         "id": 18,
-        "title": "Inghetata Ciocolata",
-        "ingredients": "Lapte 60%, Ciocolata 8%, stabilizatori < 0.5%",
+        "title": "Inghetata-ciocolata-title",
+        "ingredients": "Inghetata-cicolata-ingredients",
         "weight": "60ml",
         "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3z799u06wHz5_uWA6VTzSMi59L97kRBS-kw&s",
         "price": 800
       },
       {
         "id": 19,
-        "title": "Inghetata Pepene Galben",
-        "ingredients": "Lapte 60%, Aroma Pepene 8%, stabilizatori < 0.5%",
+        "title": "Inghetata-pepene-title",
+        "ingredients": "Inghetata-pepene-ingredients",
         "weight": "60ml",
         "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdhJ8Ntxsr_q1-lZxHnPuZxwmCiax_yetp4A&s",
         "price": 800
       },
       {
         "id": 20,
-        "title": "Inghetata Tiramisu",
-        "ingredients": "Lapte 60%, Tiramisu 10%, stabilizatori < 0.5%",
+        "title": "Inghetata-tiramisu-title",
+        "ingredients": "Inghetata-tiramisu-ingredients",
         "weight": "60ml",
         "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2xOfMYi85Y0GXtxK0puIPYOrcmwspRJvlGQ&s",
         "price": 800
@@ -135,43 +138,44 @@
   {
     "id": 4,
     "title": "Prajituri",
+    "img": "https://wallpapers.com/images/high/delicious-crepe-cake-buwdtmounrvd7dkj.webp",
     "buttons": [
       {
         "id": 21,
-        "title": "Éclair Caramel sărat",
-        "ingredients": "Oua 10%, Lapte 6%, Mascarpone 4%, Zahar 5%, Caramel sarat 2%",
+        "title": "Ecler-caramel-title",
+        "ingredients": "Ecler-caramel-ingredients",
         "weight": "95g",
         "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5WKIEW72SGoxNLINL8ZbpNRkhrddiXoqGBw&s",
         "price": 1800
       },
       {
         "id": 22,
-        "title": "Cheesecake cu căpșuni",
-        "ingredients": "Oua 10%, Lapte 6%, Capsuni 4%, Zahar 5%",
+        "title": "Cheese-cake-capsuni-title",
+        "ingredients": "Cheese-cake-capsuni-ingredients",
         "weight": "165g",
         "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5r5EP6Qe5Bufa-4s23KuzhADJZXNkI4mNSQ&s",
         "price": 2200
       },
       {
         "id": 23,
-        "title": "Cheesecake cu afine",
-        "ingredients": "Oua 10%, Lapte 6%, Afine 7%, Zahar 5%",
+        "title": "Cheese-cake-afine-title",
+        "ingredients": "Cheese-cake-afine-ingredients",
         "weight": "165g",
         "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlzMTKF1MeefkM8PlK5rOdQ9LXWBKUwtmmeQ&s",
         "price": 2100
       },
       {
         "id": 24,
-        "title": "Blueberry cheesecake",
-        "ingredients": "Oua 10%, Lapte 6%, Coacaze 5%, Zahar 5%",
+        "title": "Cheese-cake-coacaze-title",
+        "ingredients": "Cheese-cake-coacaze-ingredients",
         "weight": "150g",
         "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQn6kHygG1WnWEI047vkIM8_upzBJ1WRdGvLg&s",
         "price": 2250
       },
       {
         "id": 25,
-        "title": "Brownie Pirouette",
-        "ingredients": "Oua 10%, Lapte 6%, Capsuni 4%, Zahar 5%",
+        "title": "Pirouette-brownie-title",
+        "ingredients": "Pirouette-brownie-ingredients",
         "weight": "165g",
         "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSibWcyWduF3m-RP8QDenrx1r5LadmTC-gKFQ&s",
         "price": 2000
@@ -181,42 +185,43 @@
   {
     "id": 5,
     "title": "Sucuri Proaspete",
+    "img":"https://wallpapers.com/images/high/orange-thyme-cocktail-ne0ejtmdylkas5da.webp",
     "buttons": [
       {
         "id": 26,
-        "title": "Fresh de măr",
-        "ingredients": "Mere 90%, Scortisoara 6%",
+        "title": "Fresh-mar-title",
+        "ingredients": "Fresh-mar-ingredients",
         "weight": "300ml",
         "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8q6oWFXuyGvb6WzHGwmWmeq03R7LeOvFxcQ&s",
         "price": 2100
       },
       {
         "id": 27,
-        "title": "Fresh de portocala",
-        "ingredients": "Portocala 90%, Apa 6%",
+        "title": "Fresh-portocale-title",
+        "ingredients": "Fresh-portocale-ingredients",
         "weight": "300ml",
         "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRP34VOvgmRjPERbsrNaeri1FNFytQCb6ToYA&s",
         "price": 2100
       },
       {
         "id": 28,
-        "title": "Fresh de grapefruit",
-        "ingredients": "Grapefruit 90%, Apa 10%",
+        "title": "Fresh-graph-title",
+        "ingredients": "Fresh-graph-ingredients",
         "weight": "300ml",
         "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIJG4vNQYB9AaUr3GEm87ufQzUUXUm1rh9uw&s",
         "price": 2100
       },
       {
         "id": 29,
-        "title": "Passionate fresh",
-        "ingredients": "MAngo 90%, Scortisoara 6%",
+        "title": "Passionate-fresh-title",
+        "ingredients": "Passionate-fresh-ingredients",
         "weight": "300ml",
         "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNfAvcbrKUqSYEaSXAEv0DPcyK1BgCMdvjNg&s",
         "price": 2100
       },
       {
         "id": 30,
-        "title": "Limonadă de casă cu mentă",
+        "title": "Home-limonade-title",
         "ingredients": "lamaie 90%, menta 6%",
         "weight": "300ml",
         "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRg5_A-qY6QrsOdVtaxVeBMMNaLdLWPXBnTPw&s",
