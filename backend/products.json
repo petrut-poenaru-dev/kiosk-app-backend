@@ -9,35 +9,39 @@
         "title": "Cola-title",
         "weight": "330ml",
         "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQM2zUYY2dTP4mbX5GKdOCjCI2EM73J9IB9zA&s",
-        "price": 1000
+        "price": 1000,
+        "quantity": 1
       },
       {
         "id": 7,
         "title": "Cola-0-title",
         "weight": "330ml",
         "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRixy7c2icOA-YyoP-vOU0peqxqgCCvOnyodA&s",
-        "price": 1100
+        "price": 1100,
+        "quantity":1
       },
       {
         "id": 8,
         "title": "Dorna-minerala-title",
         "weight": "500ml",
         "img": "https://nora-delivery.ro/cdn/shop/files/ApaplataIzvorulAlb2L-1.png?v=1708498250&width=360",
-        "price": 800
-      },
+        "price": 800,
+         "quantity":1},
       {
         "id": 9,
         "title": "Fanta-title",
         "weight": "330ml",
         "img": "https://pngfre.com/wp-content/uploads/Fanta-26.png",
-        "price": 1200
+        "price": 1200,
+        "quantity":1
       },
       {
         "id": 10,
         "title": "Sprite-title",
         "weight": "330ml",
         "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYRkGvUyw8iE_p7zM6OlvkAmn_-byybV4fFQ&s",
-        "price": 1150
+        "price": 1150,
+        "quantity":1
       }
     ]
   },
@@ -52,7 +56,8 @@
         "ingredients": "Latte-ingredients",
         "weight": "180ml",
         "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAe9WpBFF_rC8NkIwtvV5DDxYk9JurIzgNWQ&s",
-        "price": 1500
+        "price": 1500,
+        "quantity":1
       },
       {
         "id": 12,
@@ -60,7 +65,8 @@
         "ingredients": "Espresso-ingredients",
         "weight": "160ml",
         "img": "https://hips.hearstapps.com/hmg-prod/images/cup-of-coffee-royalty-free-image-1581611460.jpg?crop=0.668xw:1.00xh;0.0680xw,0&resize=640:*",
-        "price": 1200
+        "price": 1200,
+        "quantity":1
       },
       {
         "id": 13,
@@ -68,7 +74,8 @@
         "ingredients": "Cappuccino-ingredients",
         "weight": "160ml",
         "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRc1LCPv30_gwBJZvr67pWx_1rRYEDVIaNJOA&s",
-        "price": 1450
+        "price": 1450,
+        "quantity":1
       },
       {
         "id": 14,
@@ -76,7 +83,8 @@
         "ingredients": "Lemon-tea-ingredients",
         "weight": "160ml",
         "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoRzbY0_1TDBoLWpttCDqDtC4QxEuBHw7XYA&s",
-        "price": 1100
+        "price": 1100,
+        "quantity":1
       },
       {
         "id": 15,
@@ -84,7 +92,8 @@
         "ingredients": "Hot-chocolate-ingredients",
         "weight": "160ml",
         "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxzaWzJMjHtQ8N2wz4xuQBgL8cyY_jdva1-Q&s",
-        "price": 1250
+        "price": 1250,
+        "quantity":1
       }
     ]
   },
@@ -100,7 +109,8 @@
         "weight": "60ml",
         "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAe9WpBFF_rC8NkIwtvV5DDxYk9JurIzgNWQ&s",
         "price": 700
-      },
+,
+      "quantity":1},
       {
         "id": 17,
         "title": "Inghetata-vanilie-title",
@@ -108,7 +118,8 @@
         "weight": "60ml",
         "img": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTLWOiy-gzGn3JD0SJMB5Cknun05qZDOLDuroGQMZpDdMW6f4MmswRf6sqoypXBeh5QqHiHeiwm4nfCc21x0Q6xtejQY_piUbSJjyp-5XznsJwwe4EkLlr9cHEZ0px8e8d8NJtHSAY&usqp=CAc",
         "price": 700
-      },
+,
+      "quantity":1},
       {
         "id": 18,
         "title": "Inghetata-ciocolata-title",
@@ -116,7 +127,8 @@
         "weight": "60ml",
         "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3z799u06wHz5_uWA6VTzSMi59L97kRBS-kw&s",
         "price": 800
-      },
+,
+      "quantity":1},
       {
         "id": 19,
         "title": "Inghetata-pepene-title",
@@ -124,7 +136,8 @@
         "weight": "60ml",
         "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdhJ8Ntxsr_q1-lZxHnPuZxwmCiax_yetp4A&s",
         "price": 800
-      },
+,
+      "quantity":1},
       {
         "id": 20,
         "title": "Inghetata-tiramisu-title",
@@ -132,7 +145,8 @@
         "weight": "60ml",
         "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2xOfMYi85Y0GXtxK0puIPYOrcmwspRJvlGQ&s",
         "price": 800
-      }
+,
+      "quantity":1}
     ]
   },
   {
@@ -146,7 +160,8 @@
         "ingredients": "Ecler-caramel-ingredients",
         "weight": "95g",
         "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5WKIEW72SGoxNLINL8ZbpNRkhrddiXoqGBw&s",
-        "price": 1800
+        "price": 1800,
+        "quantity":1
       },
       {
         "id": 22,
@@ -154,7 +169,8 @@
         "ingredients": "Cheese-cake-capsuni-ingredients",
         "weight": "165g",
         "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5r5EP6Qe5Bufa-4s23KuzhADJZXNkI4mNSQ&s",
-        "price": 2200
+        "price": 2200,
+        "quantity":1
       },
       {
         "id": 23,
@@ -162,7 +178,8 @@
         "ingredients": "Cheese-cake-afine-ingredients",
         "weight": "165g",
         "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlzMTKF1MeefkM8PlK5rOdQ9LXWBKUwtmmeQ&s",
-        "price": 2100
+        "price": 2100,
+        "quantity":1
       },
       {
         "id": 24,
@@ -170,7 +187,8 @@
         "ingredients": "Cheese-cake-coacaze-ingredients",
         "weight": "150g",
         "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQn6kHygG1WnWEI047vkIM8_upzBJ1WRdGvLg&s",
-        "price": 2250
+        "price": 2250,
+        "quantity":1
       },
       {
         "id": 25,
@@ -178,7 +196,8 @@
         "ingredients": "Pirouette-brownie-ingredients",
         "weight": "165g",
         "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSibWcyWduF3m-RP8QDenrx1r5LadmTC-gKFQ&s",
-        "price": 2000
+        "price": 2000,
+        "quantity":1
       }
     ]
   },
@@ -193,7 +212,8 @@
         "ingredients": "Fresh-mar-ingredients",
         "weight": "300ml",
         "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8q6oWFXuyGvb6WzHGwmWmeq03R7LeOvFxcQ&s",
-        "price": 2100
+        "price": 2100,
+        "quantity":1
       },
       {
         "id": 27,
@@ -201,7 +221,8 @@
         "ingredients": "Fresh-portocale-ingredients",
         "weight": "300ml",
         "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRP34VOvgmRjPERbsrNaeri1FNFytQCb6ToYA&s",
-        "price": 2100
+        "price": 2100,
+        "quantity":1
       },
       {
         "id": 28,
@@ -209,7 +230,8 @@
         "ingredients": "Fresh-graph-ingredients",
         "weight": "300ml",
         "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIJG4vNQYB9AaUr3GEm87ufQzUUXUm1rh9uw&s",
-        "price": 2100
+        "price": 2100,
+        "quantity":1
       },
       {
         "id": 29,
@@ -217,15 +239,17 @@
         "ingredients": "Passionate-fresh-ingredients",
         "weight": "300ml",
         "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNfAvcbrKUqSYEaSXAEv0DPcyK1BgCMdvjNg&s",
-        "price": 2100
+        "price": 2100,
+        "quantity":1
       },
       {
         "id": 30,
         "title": "Home-limonade-title",
-        "ingredients": "lamaie 90%, menta 6%",
+        "ingredients": "Home-limonade-ingredients",
         "weight": "300ml",
         "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRg5_A-qY6QrsOdVtaxVeBMMNaLdLWPXBnTPw&s",
-        "price": 2100
+        "price": 2100,
+        "quantity":1
       }
     ]
   }
