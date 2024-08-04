@@ -34,7 +34,7 @@ app.get('/api/products', (req, res) => {
 
 app.post('/api/orderNumber', (req, res) => {
     const currentOrderNumber = orderNumberHelper();
-    res.json({ orderNumber: currentOrderNumber });
+    res.json(currentOrderNumber);
 });
 
 app.listen(PORT, () => {
