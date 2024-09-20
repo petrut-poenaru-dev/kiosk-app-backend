@@ -8,5 +8,7 @@
       "code": "en",
       "name": "ENGLISH"
     }
-  ]
+  ],
+  "inactivityWarningTimer": 5000,
+  "inactivityCloseTimer": 8000
 }
